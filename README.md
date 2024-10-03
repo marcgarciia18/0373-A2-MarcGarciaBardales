@@ -15,8 +15,8 @@ Es un servidor que aloja paginas web y para poder acceder a ellas necesitamos pr
 
 | Lenguajes de marcas | Enlace documentación |
 |:----------:|:----------:|
-| Markdown | [EnlaceMarkdown](https://es.wikipedia.org/wiki/Markdown "target=_blank" "Markdown")
-| HTML | [EnlaceHTML](https://es.wikipedia.org/wiki/HTML "target=_blank"  "HTML")
+| Markdown | [EnlaceMarkdown](https://es.wikipedia.org/wiki/Markdown "Markdown")
+| HTML | [EnlaceHTML](https://es.wikipedia.org/wiki/HTML "HTML")
 
 **4. ¿Qué es HTML ? ¿Sabes cómo se estructura?**
 
