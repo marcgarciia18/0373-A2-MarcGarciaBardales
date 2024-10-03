@@ -55,6 +55,6 @@ Es un lenguaje de estilos que complementa los documentos HTML de manera que pued
 
 Un navegador web traduce la URL en una dirección IP y solicita los archivos necesarios al servidor. Luego, procesa el HTML, carga los recursos adicionales y renderiza la página para mostrarla al usuario.
 
-![NavegadorWeb]("FuncionamientoNavegadorWeb")
+![NavegadorWeb](https://github.com/marcgarciia18/0373-A2-MarcGarciaBardales/blob/main/Imagenes/Navegador_web.png "FuncionamientoNavegadorWeb")
 
 _Figura 2: Esquema de peticiones HTML_
